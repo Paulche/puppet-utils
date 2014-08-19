@@ -1,0 +1,11 @@
+{
+  "name": "paulche-utils",
+  "version": "0.1.0",
+  "author": "Paul Chechetin",
+  "license": "Licensed under (Apache 2.0)",
+  "summary": "Various utility",
+  "source": "https://github.com/paulche/puppet-utils",
+  "tags": [],
+  "operatingsystem_support": []
+  "dependencies": [] 
+}
